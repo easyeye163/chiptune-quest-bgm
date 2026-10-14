@@ -1,0 +1,16 @@
+id,file,title,sub,suite,bpm,key,bars,type,loop_sec,tags
+a1,a1_steel_verdict,Steel Verdict,Battle Theme,A. Battle & Advance,140,A minor,32,loop,54.857,battle intense driving
+a2,a2_bright_advance,Bright Advance,World Map March,A. Battle & Advance,126,C major,32,loop,60.952,map march hopeful
+a3,a3_skirmish_rush,Skirmish Rush,Fast Encounter,A. Battle & Advance,164,E minor,24,loop,35.122,encounter fast urgent
+a4,a4_shadow_draws_near,Shadow Draws Near,Danger Approaches,A. Battle & Advance,116,D minor,32,loop,66.207,tension danger stealth
+a5,a5_ember_campfire,Ember Campfire,Camp / Rest,A. Battle & Advance,96,F major,24,loop,60.0,camp calm warm
+b1,b1_knights_advance,Knights Advance,Player Phase March,B. Knights' Banner,132,Bb major,32,loop,58.182,player phase march heroic
+b2,b2_iron_tide,Iron Tide,Enemy Assault,B. Knights' Banner,115,C minor,32,loop,66.783,enemy phase midboss
+b3,b3_dark_lord_throne,Throne of the Dark Lord,Final Boss,B. Knights' Banner,100,C minor,24,loop,57.6,final boss dark heavy
+b4,b4_victory_fanfare,Victory Fanfare,Stage Clear Stinger,B. Knights' Banner,123,G major,4,oneshot,,victory stinger fanfare
+b5,b5_levelup_jingle,Level Up!,Level-up Jingle,B. Knights' Banner,96,C major,1,oneshot,,jingle levelup short
+c1,c1_desert_caravan,Desert Caravan,Hijaz Adventure,C. Exotic Journey,100,D Hijaz,24,loop,57.6,desert exotic maqsum
+c2,c2_shrine_of_petals,Shrine of Petals,Eastern Temple,C. Exotic Journey,84,E Hirajoshi,24,loop,68.571,shrine japanese calm
+c3,c3_ruins_forgotten,Ruins of the Forgotten,Ancient Ruins,C. Exotic Journey,72,C Double Harmonic,20,loop,66.667,ruins mysterious dark
+c4,c4_oasis_festival,Oasis Festival,Exotic Dance,C. Exotic Journey,128,G Hijaz,32,loop,60.0,festival dance tresillo
+c5,c5_harbor_bazaar,Harbor Bazaar,Lively Town,C. Exotic Journey,108,A minor pentatonic,24,loop,53.333,town lively cheerful
